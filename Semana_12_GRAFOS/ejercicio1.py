@@ -60,4 +60,5 @@ print(rutina.buscar_actividad('Esperar la clase'))
 print(rutina.buscar_actividad('Tomar clases'))
 print(rutina.buscar_actividad('Tomar el transporte de vuelta'))
 print(rutina.buscar_actividad('Volver a casa'))
+
 print(rutina.tiempo_total())
